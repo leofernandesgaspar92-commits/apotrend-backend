@@ -1,0 +1,9 @@
+{
+  "name": "apotrend-server",
+  "version": "1.0.0",
+  "description": "ApoTrend Live-Daten Backend (Vercel Serverless)",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
